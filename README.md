@@ -19,3 +19,5 @@ This is the solution for a data engineering role [task](https://careers.foondama
   
 
 ## Graph plotted
+
+![Graph plotted](https://github.com/Oluwadurotimi10/CLI_APP/blob/main/graph1.PNG)
