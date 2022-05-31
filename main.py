@@ -40,7 +40,7 @@ class PlotGrowth(object):
         plt.bar(self.dates, self.users)
         plt.title("Growth of Users")
         plt.clc()
-        plt.plotsize(100, 20)
+        plt.plotsize(150, 20)
         plt.show()
 
     def extract_data(self, data):
